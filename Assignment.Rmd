@@ -8,7 +8,8 @@ output: ioslides_presentation
 ## Objectives of Assignment
 
 This is a task for the data science coursera course about developing data products for week 4. As part of this, I have created a shiny app and deployed it on the shiny server. The link for raw code is https://github.com/im-utkarsh/Devloping-Data-Products-Shiny/tree/master/Devloping-Data-Product.  
-The app can be found at https://github.com/srngpnd/shiny.
+
+The app can be found at https://im-utkarsh.shinyapps.io/devloping-data-product/.
 
 ## Data
 
